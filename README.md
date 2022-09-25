@@ -1,2 +1,3 @@
-# jays-test
-My repository for iSci 3A12
+# Readme file for Jay's test
+My repository for iSci 3A12.
+
